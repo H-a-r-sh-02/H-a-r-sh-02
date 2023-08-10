@@ -1,4 +1,8 @@
-### Hi there friends 👋
+<h1 style=""><i>THIS IS MY PROFILE !</i></h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6E04yfvQKgNtxAz8UV3RXAm4Q8ur_8DhDfA&usqp=CAU"alt="Github Logo">
+<hr>
+### Hi there friends 👋 <br>
+I'am <b>Harsh</b> a 2'nd Year Computer Science Student.
 
 <!--
 **H-a-r-sh-02/H-a-r-sh-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
