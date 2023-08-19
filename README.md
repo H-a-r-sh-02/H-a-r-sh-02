@@ -21,12 +21,10 @@ Here are some ideas to get you started: -->
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=H-a-r-sh-02&show_icons=true&theme=tokyonight">
 </a>
-<br>
 <!-- GITHUB MOST USED LANGUAGES -->
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=H-a-r-sh-02&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 </a>
-<br>
 <!-- GITHUB REPOSITORY CARD -->
 <a href="">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=H-a-r-sh-02&repo=H-a-r-sh-02&theme=tokyonight"/>
