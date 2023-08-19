@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 </a>
 <!-- GITHUB MOST USED LANGUAGES -->
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=H-a-r-sh-02&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
+  <img width=400 height=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=H-a-r-sh-02&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
 </a>
 <!-- GITHUB REPOSITORY CARD -->
 <a href="">
