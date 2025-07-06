@@ -1,33 +1,33 @@
-<h1 style=""><i>THIS IS MY PROFILE !</i></h1>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6E04yfvQKgNtxAz8UV3RXAm4Q8ur_8DhDfA&usqp=CAU"alt="Octopus goodie">
-<hr>
-<h3> Hi there 👋</h3> 
- 👉<b>I'am <b>Harsh</b> a 2'nd Year under graduate Computer Science Student.</b>
-<br>
-<!--
-**H-a-r-sh-02/H-a-r-sh-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
- 
-- 🔭 I’m currently working on my skills ...
-- 🌱 I’m currently learning 'Full-Stack Web-Dev' ...
-- 👯 I’m looking to collaborate on 'The Top Most Repo ... 
-- 🤔 I’m looking for help with 'Person With A Deep Knowledge of Web-Dev' ...
-- 💬 Ask me about ...
-- 📫 How to reach me: From the provided Links ...
-- 😄 Pronouns: Kuch Bhi Bula lo ...
-- ⚡ Fun fact: Padhle Inme Kuch Nhi Rakha 😂...
-<hr>
-<!--  GITHUB STATS CARD -->
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=H-a-r-sh-02&show_icons=true&theme=tokyonight">
-</a>
-<!-- GITHUB MOST USED LANGUAGES -->
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=H-a-r-sh-02&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=tokyonight" />
-</a>
-<!-- GITHUB REPOSITORY CARD -->
-<a href="">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=H-a-r-sh-02&repo=H-a-r-sh-02&theme=tokyonight"/>
-</a>
+<h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
+<h3 align="center">Final Year CS Student | Full-Stack Developer | Open to Opportunities</h3>
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+- 🎓 I'm currently in my **Final Year of B.Tech in Computer Science**
+- 🌱 I’m currently learning **Full-Stack Development**
+- 💼 I’m actively **job hunting** and open to opportunities in tech!
+- 👯 I’m looking to collaborate on **real-world web projects**
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/harsh-pandey-599343257/)
+- ⚡ Fun Fact: I love **Volleyball**, **Travelling**, and **hanging out with friends**
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💻 Languages:        HTML | CSS | JavaScript
+🧰 Frontend:         React | TailwindCSS
+🛠️ Backend:          Node.js | Express.js
+🧩 Tools & Editors:  VS Code | Canva
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harshpandey-dev&show_icons=true&theme=radical" alt="harshpandey-dev stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-a-r-sh-02-dev&layout=compact&theme=radical" alt="Top Langs" /> </p>
+
+📫 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/harsh-pandey-599343257/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /> </a> </p>
+
+🚀 Quote I Live By
+"Stay hungry, stay foolish." — Steve Jobs
+
+🔥 Visitor Count
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=H-a-r-sh-02-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="harshpandey-dev" /> </p> 
