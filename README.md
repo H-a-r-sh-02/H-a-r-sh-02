@@ -48,11 +48,27 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H-a-r-sh-02&theme=radical&hide_border=true" />
 </p>
 
-📫 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/harsh-pandey-599343257/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+---
 
-🚀 Quote I Live By
-"Stay hungry, stay foolish." — Steve Jobs
+### 📬 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-🔥 Visitor Count
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=H-a-r-sh-02&label=Profile%20Views&color=F76C6C&style=flat-square" /> </p> 
+---
+
+### 🌟 Fun Side of Me
+> 🔥 0% bugs, 100% curiosity — building cool stuff, one commit at a time.  
+> ☕ Also love Volleyball, Travelling & meaningful convos over chai.
+
+---
+
+### 🔥 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=H-a-r-sh-02&label=Profile%20Views&color=ff69b4&style=flat" alt="visitor badge"/>
+</p>
