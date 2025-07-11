@@ -36,7 +36,8 @@
 ```bash
 💻 Languages:        HTML | CSS | JavaScript
 🧰 Frontend:         React | TailwindCSS
-🛠️ Backend:          Node.js | Express.js
+🛠️ Backend:          Node.js | Express.js | MongoDB
+📭 API Tools:        Postman
 🧩 Tools & Editors:  VS Code | Canva
 ```
 ### 📊 GitHub Stats
@@ -58,6 +59,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
