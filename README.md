@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="Tech Image" width="560" height="300"/>
+  </div>
+
 <h1 align="center">
   Hi 👋, I'm Harsh Pandey
 </h1>
@@ -13,8 +17,7 @@
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style=" min-width: 300px;">
-
+  
   🎓 Final Year CS Student | <b>Full-Stack Developer</b> | Open to Opportunities  
 
   - 🎓 Currently in my <b>Final Year of B.Tech</b> in Computer Science  
@@ -23,11 +26,7 @@
   - 🤝 Looking to collaborate on <b>real-world web projects</b>  
   - 🔗 Let’s connect on <a href="https://www.linkedin.com/in/harsh-pandey-599343257/">LinkedIn</a>  
   - ⚡ Fun Fact: I love <b>Volleyball</b>, <b>Travelling</b>, and casual hangouts with friends  
-
-  </div>
-  <div style=" text-align: center; min-width: 250px;">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  alt="Tech Image" width="250"/>
-  </div>
+  
 </div>
 
 ---
